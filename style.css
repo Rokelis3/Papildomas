@@ -1,0 +1,24 @@
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+.container-fluid{
+    height: 100vh;
+}
+
+ .aukstis-pirmas{
+     height: 15%;
+ }
+
+ .aukstis-antras{
+     height: 70%;
+ }
+
+ .aukstis-trecias{
+    height: 33.3%;
+ }
+ .aukstis-ketvirtas{
+    height: 33.4%;
+ }
